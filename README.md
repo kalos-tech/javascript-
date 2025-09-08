@@ -1,2 +1,2 @@
-a repo javascript /n
+a repo for  javascript,
 rockpaper scissor game
